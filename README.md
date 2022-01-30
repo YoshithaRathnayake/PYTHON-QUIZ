@@ -1,6 +1,7 @@
 # <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/Python_Quiz.html"><b><i>WELCOME!, TO MY PYTHON QUIZ</i></b></a></div> 
 
 > This is the Quiz that I made using Python Programming Language
+
 > This can only run in the Terminal
 
 # <div align="center"><img src="Images/Quiz Time.jpg" width="300px"></div>
