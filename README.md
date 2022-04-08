@@ -6,7 +6,7 @@
 
 > This can only run in the Terminal
 
-# <div align="center"><img src="Images/Quiz Time.jpg" width="300px"></div>
+# <div align="center"><img src="images/Quiz Time.jpg" width="300px"></div>
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
