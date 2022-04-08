@@ -18,8 +18,8 @@ Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Python_Quiz.html]
 - Clone your forked repository
     
     ```
-    git clone https://github.com/USERNAME/Python-Quiz.git
-    cd Python-Quiz
+    git clone https://github.com/USERNAME/PYTHON-QUIZ.git
+    cd PYTHON-QUIZ
     ```
      
 #
@@ -32,7 +32,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://yoshitharathnayake.w3spaces.com/Index.html"><img src="Images/Yoshitha Rathnayake 2.png" width="100px;" alt="Yoshitha Rathnayake"/><br /><sub><b>Yoshitha Rathnayake</b></sub></a><br/><a href="https://github.com/acf-sack/sack-site/commits?author=Yoshitha-SACK" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.Yoshitha.tk"><img src="images/Yoshitha Rathnayake 2.png" width="100px;" alt="Yoshitha Rathnayake"/><br /><sub><b>Yoshitha Rathnayake</b></sub></a><br/><a href="https://github.com/YoshithaRathnayake/PYTHON-QUIZ/commits?author=YoshithaRathnayake" title="Code">💻</a></td>
   </tr>
 </table>
 
