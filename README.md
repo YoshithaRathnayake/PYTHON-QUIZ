@@ -8,7 +8,7 @@
 
 > Used Programming Languages (Python) 
 
-<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/452/python--v1.png"/><a>
+<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/50/python--v1.png"/><a>
 
 # <div align="center"><img src="images/Quiz Time.jpg" width="300px"></div>
 
