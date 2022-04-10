@@ -6,9 +6,9 @@
 
 > This can only run in the Terminal
 
-> Used Programming Languages (Python) 
+> Used Programming Languages (PYTHON, YAML) 
 
-<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/50/python--v1.png"/><a>
+<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/50/python--v1.png"/><a><a href="https://www.tutorialspoint.com/yaml/index.htm"><img src="https://marketplace.automic.com/jart/prj3/depman/interfaces/marketplace/tools/push-file.jart?path=/jart/stg/marketplace/PCK_YAML/screenshots/YAML_Logo.png" height="45px"/><a>
 
 # <div align="center"><img src="images/Quiz Time.jpg" width="300px"></div>
 
